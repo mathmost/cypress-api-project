@@ -1,0 +1,25 @@
+{
+  "name": "api_project",
+  "version": "7.2.0",
+  "description": "cypress接口自动化示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathmost/cypress-api-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mathmost/cypress-api-project/issues"
+  },
+  "homepage": "https://github.com/mathmost/cypress-api-project#readme",
+  "dependencies": {
+    "cypress": "^7.2.0",
+    "faker": "^5.5.3"
+  }
+}

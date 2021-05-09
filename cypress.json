@@ -1,0 +1,11 @@
+{
+    "animationDistanceThreshold": 5,
+    "baseUrl": "https://petstore.swagger.io",
+    "env": null,
+    "reporter": "spec",
+    "reporterOptions": null,
+    "requestTimeout": 5000,
+    "responseTimeout": 30000,
+    "screenshotsFolder": "cypress/screenshots",
+    "testingType": "e2e"
+}

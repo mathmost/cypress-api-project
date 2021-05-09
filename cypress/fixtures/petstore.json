@@ -1,0 +1,37 @@
+[
+    {
+        "id": 61847,
+        "category": {
+            "id": 4979,
+            "name": "Freeman"
+        },
+        "name": "District Configuration Officer",
+        "photoUrls": [
+            "http://placeimg.com/640/480/animals"
+        ],
+        "tags": [
+        {
+            "id": 21819,
+            "name": "string"
+        }
+        ],
+        "status": "available"
+    }, {
+        "id": 61848,
+        "category": {
+            "id": 4980,
+            "name": "man"
+        },
+        "name": "Tester Officer",
+        "photoUrls": [
+            "http://placeimg.com/640/481/animals"
+        ],
+        "tags": [
+        {
+            "id": 21820,
+            "name": "string"
+        }
+        ],
+        "status": "available"
+    }
+]
