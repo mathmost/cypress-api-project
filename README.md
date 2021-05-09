@@ -4,9 +4,9 @@
   npm install cypress --save			-> 安装cypress包
 2. 启动<br/>
     方式一
-      &nbsp&nbsp使用 node_modules\.bin\cypress open
+      &nbsp;&nbsp;使用 node_modules\.bin\cypress open<br/>
     方式二<br/>
-      &nbsp&nbspnpx cypress open
+      &nbsp;&nbsp;npx cypress open
     <br/>
     方式三<br/>
-      &nbsp&nbspyarn run cypress open
+      &nbsp;&nbsp;yarn run cypress open
